@@ -1,0 +1,6 @@
+framework module Pods_SockJSiOSClientUITests {
+  umbrella header "Pods-SockJSiOSClientUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
